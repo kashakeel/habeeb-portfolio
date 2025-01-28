@@ -183,7 +183,7 @@ const Portfolio = () => {
                 foundation in creating functional and efficient web solutions.
               </p>
               <div className="flex gap-4">
-              <a href="https://drive.google.com/uc?export=download&id=1Mjdb3K6os10n_Ktn4ErFEjIbvi5x4no6" target="_blank" rel="noopener noreferrer">
+              <a href="https://drive.google.com/uc?export=download&id=1MqPdbBFSIszgr5bvhzTCODiUJ468verC" target="_blank" rel="noopener noreferrer">
                   <button className="bg-blue-500 px-6 py-3 rounded-lg hover:bg-blue-600 transition-colors">
                     Download CV
                   </button>
